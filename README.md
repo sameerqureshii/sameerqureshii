@@ -96,4 +96,14 @@
   <img alt="Sheets" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png">
 </p> -->
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameerqureshii&theme=github-dark-dimmed&custom_title=Sameer's%20Activity%20Graph&hide_border=true)](https://github.com/sameerqureshii/github-readme-activity-graph)
+
+<hr></hr>
+<div align="center" >
+ 
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</div>
