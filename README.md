@@ -1,10 +1,9 @@
 ## Hey 👋, This is Sameer Ahmed Qureshi
 ![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
- <a href="https://www.linkedin.com/in/sameer-ahmed-qureshi56/" target="_blank">
+## Connect with me
+
+<a href="https://www.linkedin.com/in/sameer-ahmed-qureshi56/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Sameer Ahmed Qureshi Linkedin/>
 </a>
  <a href="https://github.com/sameerqureshii" target="_blank">
@@ -25,8 +24,9 @@
 </a> -->
 
 </br>
-<p align='left'>Little bit about me:
-
+<p align='left'>
+ 
+ ## Little bit about me
 🔭 I’m currently working on `Django`. </br>
 🌱 I’m currently learning `Data Science` and `IoT`.</br>
 💬 Ask me about Web Development.</br>
@@ -42,24 +42,23 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sameerqureshii&show_icons=true&include_all_commits=true)](https://github.com/sameerqureshii/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerqureshii&layout=compact)](https://github.com/sameerqureshii/github-readme-stats)
 
-<h3 align="left">Github Streaks:</h3>
+## Github Streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerqureshii&" alt="sameerqureshii" /></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,javascript,jquery,angular,php,pycharm,python,django,sklearn,opencv,tensorflow,arduino,r,c,cpp,visualstudio,cs,androidstudio,java,git,github,figma,mysql,anaconda,netlify,discord,wordpress,webflow,styledcomponents,stackoverflow,ipfs,notion,windows&perline=16" />
   </a>
 </p>
 
-<h3 align="left">🏆 GitHub Achievements:</h3>
+## 🏆 GitHub Achievements
 <p align="center">
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=sameerqureshii&row=1&theme=discord"></a>
 </p>
+
 <!--
-
-
 <p align="center">
   <img alt="Python" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png">&emsp;
   <img alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">&emsp;
@@ -94,6 +93,7 @@
   <img alt="Sheets" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-2.png">
 </p> -->
 
+## 📈 Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameerqureshii&theme=github-dark-dimmed&custom_title=Sameer's%20Activity%20Graph&hide_border=true)](https://github.com/sameerqureshii/github-readme-activity-graph)
 
 <hr></hr>
@@ -104,4 +104,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</div>
+
+
+<div align="center" >
+ Made by <a href="https://github.com/sameerqureshii">sameerqureshii</a>
 </div>
