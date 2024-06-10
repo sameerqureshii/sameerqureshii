@@ -1,5 +1,3 @@
-<!--Hi there 👋 -->
-
 ## Hey 👋, This is Sameer Ahmed Qureshi
 ![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge)
 <h3 align="left">Connect with me:</h3>
