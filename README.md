@@ -26,7 +26,7 @@
 </br>
 <p align='left'>
  
-## Little bit about me
+## A Little bit about me
 
 🔭 I’m currently working on `Django`. </br>
 🌱 I’m currently learning `Data Science` and `IoT`.</br>
