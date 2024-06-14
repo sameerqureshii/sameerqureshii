@@ -27,15 +27,14 @@
 <p align='left'>
  
 ## A Little bit about me
-
+⚡ I’m a `Full-Stack` Developer. </br>
 🔭 I’m currently working on `Django`. </br>
 🌱 I’m currently learning `Data Science` and `IoT`.</br>
 💬 Ask me about Web Development.</br>
 👨‍💻 Loves to Code </br>
 😄 Pronouns: he/him</br>
 <!--👯 I’m looking to collaborate on ...</br>
-🤔 I’m looking for help with ...</br>
-⚡ Fun fact: ... -->
+🤔 I’m looking for help with ...</br>  -->
 </p>
 
 ## Some of my Github Stats
