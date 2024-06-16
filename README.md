@@ -31,7 +31,7 @@
 🔭 I’m currently working on `Django`. </br>
 🌱 I’m currently learning `Data Science` and `IoT`.</br>
 💬 Ask me about Web Development.</br>
-👨‍💻 Loves to Code </br>
+👨‍💻 Loves to `Code` </br>
 😄 Pronouns: he/him</br>
 <!--👯 I’m looking to collaborate on ...</br>
 🤔 I’m looking for help with ...</br>  -->
