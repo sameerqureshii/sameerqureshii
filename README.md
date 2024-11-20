@@ -100,11 +100,6 @@
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/>
 </div>
 
-<a href='https://github.com/sameerqureshii/'>
-<div align='center'>
-<img src='https://github.com/sameerqureshii/sameerqureshii/blob/output/github-contribution-grid-snake.svg'/>
-</div></a>
-
 <hr></hr>
 <div align="center" >
 
