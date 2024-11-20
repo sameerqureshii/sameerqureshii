@@ -97,8 +97,13 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameerqureshii&theme=github-dark-dimmed&custom_title=Sameer's%20Activity%20Graph&hide_border=true)](https://github.com/sameerqureshii/github-readme-activity-graph)
 
 <div align='center'>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/>
+</div>
 
+<a href='https://github.com/sameerqureshii/'>
+<div align='center'>
+<img src='https://github.com/sameerqureshii/sameerqureshii/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
 <hr></hr>
 <div align="center" >
 
