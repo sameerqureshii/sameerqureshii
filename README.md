@@ -96,6 +96,7 @@
 ## 📈 Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sameerqureshii&theme=github-dark-dimmed&custom_title=Sameer's%20Activity%20Graph&hide_border=true)](https://github.com/sameerqureshii/github-readme-activity-graph)
 
+<div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
 
 <hr></hr>
