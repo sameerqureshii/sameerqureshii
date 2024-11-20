@@ -1,7 +1,7 @@
 ## Hey 👋, This is Sameer Ahmed Qureshi :)
 ![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge)
 
-## Connect with me
+## Connect with me 
 
  <a href="https://www.linkedin.com/in/sameer-ahmed-qureshi56/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Sameer Ahmed Qureshi Linkedin/>
