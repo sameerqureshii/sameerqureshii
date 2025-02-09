@@ -1,5 +1,5 @@
 ## Hey 👋, This is Sameer Ahmed Qureshi :)
-![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge) 
 
 ## Connect with me 
 
