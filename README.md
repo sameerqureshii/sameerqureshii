@@ -49,7 +49,7 @@
 ## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,javascript,jquery,angular,php,pycharm,python,django,sklearn,opencv,tensorflow,arduino,r,c,cpp,visualstudio,cs,androidstudio,java,git,github,figma,mysql,anaconda,netlify,discord,wordpress,webflow,styledcomponents,stackoverflow,ipfs,notion,windows&perline=16" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,javascript,jquery,angular,php,pycharm,python,django,sklearn,opencv,arduino,r,c,cpp,visualstudio,cs,androidstudio,java,git,github,figma,mysql,anaconda,netlify,discord,wordpress,webflow,styledcomponents,stackoverflow,ipfs,notion,windows,tableau,canva,xcode&perline=16" />
   </a>
 </p>
 
