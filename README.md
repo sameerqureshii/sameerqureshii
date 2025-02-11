@@ -29,7 +29,7 @@
 ## A Little bit about me
 ⚡ I’m a `Full-Stack` Developer. </br>
 🔭 I’m currently working on `Django`. </br>
-🌱 I’m currently learning `Data Science` and `IoT`.</br>
+🌱 I’m currently learning `AWS` and `React.js`.</br>
 💬 Ask me about Web Development.</br>
 👨‍💻 Loves to `Code` </br>
 😄 Pronouns: he/him</br>
