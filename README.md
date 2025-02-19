@@ -1,8 +1,9 @@
+![](https://github.com/sameerqureshii/sameerqureshii/blob/main/header.gif)
 ## Hey 👋, This is Sameer Ahmed Qureshi :)
-![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge) 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge) -->
+<h3><img src="https://komarev.com/ghpvc/?username=sameerqureshii&label=Profile%20views&color=6805D3&style=flat" alt="sameerqureshii"/></h3>
 
 ## Connect with me 
-
  <a href="https://www.linkedin.com/in/sameer-ahmed-qureshi56/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Sameer Ahmed Qureshi Linkedin/>
 </a>
@@ -38,13 +39,20 @@
 </p>
 
 ## Some of my Github Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sameerqureshii&show_icons=true&include_all_commits=true)](https://github.com/sameerqureshii/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerqureshii&layout=compact)](https://github.com/sameerqureshii/github-readme-stats)
+<div align='center'>
+<table>
+  <tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=sameerqureshii&include_all_commits=true&count_private=true&show_icons=true" alt="Sameer Qureshi"/></td>
+   
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerqureshii&show_icons=true&locale=en&layout=compact" alt="Sameer Qureshi"/></td>
+  </tr>
+</table>
+</div>
 
 ## 🔥 Github Streaks
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerqureshii&" alt="sameerqureshii" /></p>
-
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerqureshii&theme=dark" alt="sameerqureshii"/></p>
+  </div>
 
 ## 🛠️ Languages and Tools
 <p align="center">
@@ -98,6 +106,8 @@
 
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/>
+
+![](https://github.com/sameerqureshii/sameerqureshii/blob/main/snake.svg)
 </div>
 
 <hr></hr>
@@ -109,6 +119,9 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 </div>
+
+<hr></hr>
+
 
 <div align="center" >
 Made by <a href="https://github.com/sameerqureshii">sameerqureshii</a>
