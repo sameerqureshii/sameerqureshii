@@ -1,4 +1,4 @@
-![](https://github.com/sameerqureshii/sameerqureshii/blob/main/header.gif)    
+![](https://github.com/sameerqureshii/sameerqureshii/blob/main/header.gif)   
 ## Hey 👋, This is Sameer Ahmed Qureshi :)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=sameerqureshii&style=for-the-badge) -->
 <h3><img src="https://komarev.com/ghpvc/?username=sameerqureshii&label=Profile%20views&color=6805D3&style=flat" alt="sameerqureshii"/></h3>
