@@ -28,7 +28,7 @@
 <p align='left'>
  
 ## A Little bit about me
-⚡ I’m a `Full-Stack` Developer. </br>
+⚡ I’m a `Software Engineer`. </br>
 🔭 I’m currently working on `Django`. </br>
 🌱 I’m currently learning `AWS` and `React.js`.</br>
 💬 Ask me about Web Development.</br>
