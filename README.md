@@ -30,7 +30,7 @@
 ## A Little bit about me
 ⚡ I’m a `Software Engineer`. </br>
 🔭 I’m currently working on `Django`. </br>
-🌱 I’m currently learning `AWS` and `React.js`.</br>
+🌱 I’m currently learning `Python` and `React.js`.</br>
 💬 Ask me about Web Development.</br>
 👨‍💻 Loves to `Code` </br>
 😄 Pronouns: he/him</br>
