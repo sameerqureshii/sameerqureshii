@@ -29,11 +29,10 @@
  
 ## A Little bit about me
 ⚡ I’m a `Software Engineer`. </br>
-🔭 I’m currently working on `Django`. </br>
-🌱 I’m currently learning `Python` and `React.js`.</br>
-💬 Ask me about Web Development.</br>
-👨‍💻 Loves to `Code` </br>
-😄 Pronouns: he/him</br>
+🔭 I’m currently working on `Python`. </br>
+🌱 I’m currently learning `Django` and `Next.js`.</br>
+💬 Ask me about `Web Development`.</br>
+👨‍💻 Loves to `Code`. </br>
 <!--👯 I’m looking to collaborate on ...</br>
 🤔 I’m looking for help with ...</br>  -->
 </p>
@@ -57,7 +56,7 @@
 ## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,javascript,jquery,angular,php,pycharm,python,django,opencv,arduino,r,c,cpp,visualstudio,cs,androidstudio,java,git,github,figma,mysql,anaconda,discord,wordpress,webflow,styledcomponents,stackoverflow,ipfs,notion,windows,tableau,canva,xcode&perline=16" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,tailwind,bootstrap,javascript,jquery,php,pycharm,python,django,nextjs,r,c,cpp,visualstudio,java,git,github,figma,mysql,anaconda,discord,wordpress,webflow,styledcomponents,stackoverflow,ipfs,notion,windows,codepen" />
   </a>
 </p>
 
